@@ -1,0 +1,3 @@
+
+# Crypto Tracker
+Meningkatnya perkembangan cryptocurrency saat ini menjadikan banyak orang tertarik terjun ke dunia cryptocurrency, namun akses informasi yang terkadang susah dipahami oleh orang awam membuat mereka kesulitan untuk memahami dan memonitor perkembangan cryptocurrency. Dengan adanya aplikasi Crypto Tracker ini, pengguna dapat memonitor perkembangan cryptocurrency dengan mudah dan cepat.
